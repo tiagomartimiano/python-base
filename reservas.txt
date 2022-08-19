@@ -1,0 +1,4 @@
+Tiago,1,5
+Maria,3,8
+Solange,2,12
+Turco,4,22
